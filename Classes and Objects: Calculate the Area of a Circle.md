@@ -25,7 +25,9 @@ print("Area of the circle:", area)
 ``
 
 ## Output
-<img width="1180" height="895" alt="image" src="https://github.com/user-attachments/assets/355b8cdc-3ba7-45dc-9024-9c9e4c1a2a75" />
+```
+<img width="1201" height="902" alt="image" src="https://github.com/user-attachments/assets/8f78e8ff-75bc-48a6-a8e1-231a11f77ec9" />
+```
 
 ## Result
 Thus To write a Python program that calculates the area of a circle based on the radius provided by the user. This program uses a class named cse and a method mech to perform the calculation has been executed sucessfully.
